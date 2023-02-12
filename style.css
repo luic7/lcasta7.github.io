@@ -1,0 +1,11 @@
+img.self {
+    width: 221px;
+    height: 294px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+div.web {
+    max-width: 500px;
+    margin: auto;
+}
