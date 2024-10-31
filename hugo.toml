@@ -1,0 +1,48 @@
+baseURL = 'https://casta.dev/'
+languageCode = 'en-us'
+title = 'casta.dev'
+theme = 'PaperMod'
+
+
+[params]
+[params.profileMode]
+enabled = true
+title = "Luis Castaneda"
+subtitle = "Software Engineer"
+imageUrl = "flower.png"
+imageTitle = "Profile Picture"
+
+
+[[params.profileMode.buttons]]
+name = "About"
+url = "/about/"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/lcasta7"
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/luis-castaneda-25903028a/"
+[[params.socialIcons]]
+name = "email"
+url = "mailto:luis@casta.dev"
+
+# Other customization
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 20

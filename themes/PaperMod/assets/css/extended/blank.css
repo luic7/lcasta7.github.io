@@ -1,0 +1,14 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+.main {
+    padding: 20px 40px;  /* Increase padding around main content */
+    max-width: 800px;   /* Adjust max-width as needed */
+    margin: 0 auto;      /* Center the content */
+}
+
+.post-content {
+    margin: 20px 0;      /* Add margin to post content */
+}
