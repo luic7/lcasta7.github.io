@@ -14,6 +14,7 @@ My technical journey spans the full stack of modern distributed systems, from AW
 
 I thrive in environments where I can tackle complex technical challenges while helping my team grow stronger. I'm always eager to learn new technologies and methodologies, but I never lose sight of the fundamentals: reliability, maintainability, and delivering real value to users.
 
+At this stage of my professional life, I'm fully committed to my career growth. I find myself intensely driven, and I'm looking for a company culture that matches and even surpasses my level of ambition. I'm unapologetic about my dedication - I thrive in environments that demand excellence, and I seek a company culture that values and rewards that drive.
 
 ## Resume
 

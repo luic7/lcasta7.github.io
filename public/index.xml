@@ -6,15 +6,15 @@
     <description>Recent content on casta.dev</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
+      <title></title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hello and Welcome! Hi, I&amp;rsquo;m Luis, a Software Engineer passionate about building reliable, maintainable systems that solve real business challenges.
-Currently at Grubhub, I architect and maintain critical microservices that process tens of thousands of orders daily for major enterprise partners. My engineering philosophy centers on writing clean, maintainable code that stands the test of time and scale. Whether I&amp;rsquo;m implementing financial systems or establishing monitoring infrastructure, I believe in doing things right the first time.</description>
+      <description>&lt;!DOCTYPE html&gt; About Me About Me 2024-10-30
+Hello and Welcome! Hi, I’m Luis, a Software Engineer passionate about building reliable, maintainable systems that solve real business challenges.
+Currently at Grubhub, I architect and maintain critical microservices that process tens of thousands of orders daily for major enterprise partners. My engineering philosophy centers on writing clean, maintainable code that stands the test of time and scale. Whether I’m implementing financial systems or establishing monitoring infrastructure, I believe in doing things right the first time.</description>
     </item>
   </channel>
 </rss>
