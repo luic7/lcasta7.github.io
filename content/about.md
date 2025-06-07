@@ -18,7 +18,7 @@ At this stage of my professional life, I'm fully committed to my career growth. 
 
 ## Resume
 
-Please follow [this](https://drive.google.com/file/d/1c4GN2VlKrl5UbN-z3LefxKc3hg-L3Qfc/view) link to view my resume in google drive.
+Please follow [this](https://drive.google.com/file/d/1ihYY0fJ8ElcxyDEj7rUdI8s6wMiHhruc/view?usp=sharing) link to view my resume in google drive.
 
 ## Skills
 
