@@ -5,6 +5,7 @@ draft: false
 
 #### TypeScript
 [Glaunch](https://github.com/luic7/glaunchv2) - GNOME shell extension for Linux enhancing productivity through keyboard-driven window management, an effective alternative to tiling window managers
+
 [Firefox-Plugin](https://github.com/luic7/lc-firefox) - Custom firefox extension customizing firefox shortcuts and tab management
 
 #### Go
