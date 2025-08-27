@@ -30,7 +30,7 @@ Please follow [this](https://drive.google.com/file/d/1ihYY0fJ8ElcxyDEj7rUdI8s6wM
 - **Bachelor's in Computer Science** - University of Illinois - Chicago
 
 ## Contact
-Phone: +1(872)325-8449
+Phone: +1(312)300-4040
 
 Email: luis@casta.dev
 
